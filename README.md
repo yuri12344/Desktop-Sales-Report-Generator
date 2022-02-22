@@ -4,7 +4,7 @@ Report Generator is a Python software to dealing with Reports Generations for cl
 
 ## Installation
 
-With Python 3.7 > installed, create your virtual enviroment.
+With Python 3.7 > installed, create your virtual enviroment with following command.
 
 ```bash
 python3 -m venv venv
@@ -21,6 +21,13 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+and
+
+```bash
+sudo apt-get install qt5-default
+```
+
 
 ## Local enviroments (Optional)
 
