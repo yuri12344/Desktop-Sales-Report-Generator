@@ -2,6 +2,8 @@
 
 Report Generator is a Python software to dealing with Reports Generations for clients and companys, with multi thread and shared database connections. Which can increase a lot the speed to generate one report with Pandas or wherever do you want to do with data.
 
+<img src="https://raw.githubusercontent.com/yuri12344/desktop-report-generator/master/print/Screenshot%20from%202022-02-21%2023-03-33.png">
+
 ## Installation
 
 With Python 3.7 > installed, create your virtual enviroment with following command.
