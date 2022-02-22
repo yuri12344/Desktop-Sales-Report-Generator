@@ -15,9 +15,6 @@ Activate
 source venv/bin/activate
 ```
 
-## Instalation
-
-
 ```bash
 pip install -r requirements.txt
 ```
